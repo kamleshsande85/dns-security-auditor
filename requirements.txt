@@ -1,0 +1,6 @@
+Django==4.2.0
+djangorestframework==3.14.0
+django-cors-headers==4.0.0
+dnspython==2.3.0
+python-whois==0.9.3
+reportlab==4.0.4
